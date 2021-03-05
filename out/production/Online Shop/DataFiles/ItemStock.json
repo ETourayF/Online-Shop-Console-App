@@ -1,0 +1,22 @@
+{
+  "Items": [
+    {
+      "no.InStock": "10",
+      "price": "52.0",
+      "name": "Assasins creed: Valhalla",
+      "description": "3rd person action adventure game"
+    },
+    {
+      "no.InStock": "3",
+      "price": "60.0",
+      "name": "Call Of Duty: Cold War",
+      "description": "1st person shooter"
+    },
+    {
+      "no.InStock": "7",
+      "price": "35.0",
+      "name": "Ghost Of Tsushima",
+      "description": "3rd person action adventure/melee"
+    }
+  ]
+}
